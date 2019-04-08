@@ -1,8 +1,7 @@
 import React, { Component } from 'react'
+//import QuizQuestion from './QuizQuestion'
 
-import QuizQuestion from './QuizQuestion'
-
-let quizData = require('./quiz_data.json')
+//let quizData = require('./quiz_data.json')
 
 class QuizQuestionButton extends Component{
   handleClick(){
